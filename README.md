@@ -1,7 +1,7 @@
 <h1 align="center">🕒 React Countdown Timer 🚀</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/preview.png" alt="Preview of the React Countdown Timer" />
+  <img src="/preview.jpg" alt="Preview of the React Countdown Timer" />
 </p>
 
 <p align="center">A sleek and feature-rich countdown timer built with React.js for your projects and applications. 🎉</p>
